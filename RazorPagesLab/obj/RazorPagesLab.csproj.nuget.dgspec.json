@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\Razor\\RazorPagesLab\\RazorPagesLab.csproj": {}
+    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\Razor\\RazorPagesLab\\RazorPagesLab.csproj": {
+    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\Razor\\RazorPagesLab\\RazorPagesLab.csproj",
+        "projectUniqueName": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj",
         "projectName": "RazorPagesLab",
-        "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\Razor\\RazorPagesLab\\RazorPagesLab.csproj",
+        "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj",
         "packagesPath": "C:\\Users\\paulb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\Razor\\RazorPagesLab\\obj\\",
+        "outputPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,32 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
