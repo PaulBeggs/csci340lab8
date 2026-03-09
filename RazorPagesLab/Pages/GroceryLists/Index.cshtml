@@ -1,8 +1,8 @@
-@page
+@page 
 @model RazorPagesLab.Pages_GroceryLists.IndexModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "All Groceries";
 }
 
 <h1>Index</h1>
@@ -10,6 +10,15 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+<form>
+    <p>
+        <select asp-for="GroceryListDateBought" asp-items="Model.DateBought">
+        <option value="">All</option>
+        </select>
+        <label>Name: <input type="text" asp-for="SearchString" /></label>
+        <input type="submit" value="Filter" />
+    </p>
+</form>
 <table class="table">
     <thead>
         <tr>

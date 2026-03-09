@@ -29,6 +29,13 @@ public static class SeedData
                     DateBought = DateTime.Parse("2026-2-12"),
                     Rebuy = true,
                     Price = 7.99M
+                },
+                new GroceryList
+                {
+                    Name = "Bread",
+                    DateBought = DateTime.Parse("2026-2-12"),
+                    Rebuy = false,
+                    Price = 2.39M
                 }
             );
             context.SaveChanges();
