@@ -38,24 +38,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Movies/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Movies/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Movies/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Movies/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Movies/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Shared/_ValidationScriptsPartial.cshtml]

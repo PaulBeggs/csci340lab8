@@ -14,6 +14,6 @@ namespace RazorPagesLab.Data
         {
         }
 
-        public DbSet<RazorPagesLab.Models.Movie> Movie { get; set; } = default!;
+        public DbSet<RazorPagesLab.Models.GroceryList> GroceryList { get; set; } = default!;
     }
 }
