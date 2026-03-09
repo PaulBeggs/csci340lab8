@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj": {}
+    "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj": {
+    "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj",
+        "projectUniqueName": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj",
         "projectName": "RazorPagesLab",
-        "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj",
+        "projectPath": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\RazorPagesLab.csproj",
         "packagesPath": "C:\\Users\\paulb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\obj\\",
+        "outputPath": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\razor_accounting\\csci340lab8\\RazorPagesLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulb\\AppData\\Roaming\\NuGet\\NuGet.Config"

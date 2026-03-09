@@ -34,6 +34,26 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/GroceryLists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvY2VyeUxpc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/GroceryLists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvY2VyeUxpc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/GroceryLists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvY2VyeUxpc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/GroceryLists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvY2VyeUxpc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/GroceryLists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvY2VyeUxpc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/paulb/VSCode_Files_Main_Directory/CSCI340/razor_accounting/csci340lab8/RazorPagesLab/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
