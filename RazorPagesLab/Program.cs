@@ -9,6 +9,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<RazorPagesLabContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("RazorPagesLabContext") ?? throw new InvalidOperationException("Connection string 'RazorPagesLabContext' not found.")));
 
+builder.Services.AddValidation();
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {

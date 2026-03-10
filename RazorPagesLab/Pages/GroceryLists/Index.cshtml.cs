@@ -34,7 +34,7 @@ namespace RazorPagesLab.Pages_GroceryLists
 
         public async Task OnGetAsync()
         {
-            IQueryable<DateTime?> dateTimes = from l in _context.GroceryList
+            IQueryable<DateTime> dateTimes = from l in _context.GroceryList
                                              orderby l.DateBought ascending
                                              select l.DateBought;
 

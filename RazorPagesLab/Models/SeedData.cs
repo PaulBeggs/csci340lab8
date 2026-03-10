@@ -28,14 +28,16 @@ public static class SeedData
                     Name = "Avocados",
                     DateBought = DateTime.Parse("2026-2-12"),
                     Rebuy = true,
-                    Price = 7.99M
+                    Price = 7.99M,
+                    Store = "Amazon"
                 },
                 new GroceryList
                 {
                     Name = "Bread",
                     DateBought = DateTime.Parse("2026-2-12"),
                     Rebuy = false,
-                    Price = 2.39M
+                    Price = 2.39M,
+                    Store = "Walmart"
                 }
             );
             context.SaveChanges();

@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RazorPagesLab.Data;
 
@@ -10,9 +11,11 @@ using RazorPagesLab.Data;
 namespace RazorPagesLab.Migrations
 {
     [DbContext(typeof(RazorPagesLabContext))]
-    partial class RazorPagesLabContextModelSnapshot : ModelSnapshot
+    [Migration("20260310000133_store")]
+    partial class store
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "10.0.3");
@@ -28,13 +31,12 @@ namespace RazorPagesLab.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(60)
                         .HasColumnType("TEXT");
 
                     b.Property<decimal?>("Price")
                         .HasColumnType("decimal(18, 2)");
 
-                    b.Property<bool>("Rebuy")
+                    b.Property<bool?>("Rebuy")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Store")

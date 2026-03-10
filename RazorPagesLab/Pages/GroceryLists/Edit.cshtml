@@ -35,6 +35,11 @@
                 <span asp-validation-for="GroceryList.Price" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="GroceryList.Store" class="control-label"></label>
+                <input asp-for="GroceryList.Store" class="form-control" />
+                <span asp-validation-for="GroceryList.Store" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
